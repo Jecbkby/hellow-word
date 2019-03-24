@@ -1,1 +1,7 @@
 #this is the first main() function
+
+
+int main()
+{
+  return 0;
+}
